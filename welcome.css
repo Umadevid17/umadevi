@@ -1,0 +1,10 @@
+
+body{
+	background-color: orangered;
+}
+.contain{
+	background-color: white;
+	color: green;
+	width: 50%;
+	height: 70%;
+}
